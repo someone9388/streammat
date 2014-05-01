@@ -10,3 +10,4 @@ this project contain client and server ,the client get the frame throught webcam
 the client is code in vs2012 and use the boost lib .
 the server is code in qtcreator and use qtcpserver and qtcpsocket.
 
+mail:wzyuliyang911@gmail.com
