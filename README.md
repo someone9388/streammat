@@ -1,6 +1,10 @@
 streammat
 =========
 
+UPDATE：
+  * jpegstreamimageserver:sent opencv Mat (jpeg compress,smaller 6 times) to server
+  * jpegstream: get images
+  * jpgUIreciver:UI get image ,show im qt label{use signal and slot}
 stream opencv webcam frame throught tcp
 welcome to visit my blog :
 http://www.cnblogs.com/yuliyang/p/3702589.html
